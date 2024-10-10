@@ -11,6 +11,8 @@ h1{
 .box1{
     background-color: green;
     height:200px;
-    width:200px;font-size: 200px;
-    justify-content:center;
+    width:200px;
+    font-size: 8em;
+    text-align:center;
+    line-height:200px;
 }
