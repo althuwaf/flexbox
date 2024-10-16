@@ -1,22 +1,2 @@
-h1{
-    max-width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
-}
 
-.flexbox{
-    display:flex;
-    justify-content:center;
-    flex-flow:row-reverse wrap;
-    align-items:center;
-    height: 100vh;
-}
-.box1{
-    background-color: green;
-    height:200px;
-    width:200px;
-    font-size: 8em;
-    text-align:center;
-    line-height:200px;
-}
 
